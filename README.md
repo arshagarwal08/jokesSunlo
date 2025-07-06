@@ -30,10 +30,3 @@ This project was created to **practice UI design with Tailwind CSS** and **integ
   - [Chuck Norris API](https://api.chucknorris.io/)
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/jokesSunlo.git
-cd jokesSunlo
