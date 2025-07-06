@@ -20,12 +20,6 @@ This project was created to **practice UI design with Tailwind CSS** and **integ
 
 ---
 
-## 🖼️ Screenshot
-
-![jokesSunlo screenshot](./assets/screenshot.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Tailwind CSS
