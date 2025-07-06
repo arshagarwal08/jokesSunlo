@@ -1,4 +1,4 @@
-# 😂 jokesSunlo - Random Jokes Web App
+# jokesSunlo - Random Jokes Web App
 
 **jokesSunlo** is a playful, beginner-friendly web app that lets users fetch and enjoy jokes from multiple categories like Programming, 2-part Jokes, Dad Jokes, and Chuck Norris one-liners.
 
